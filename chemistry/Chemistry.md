@@ -57,4 +57,4 @@ The properties of a material depend on **what its particles are, how they are ar
 
 ## Related science course
 
-- [[../physics/Physics|Physics: from first principles]] — motion, forces, energy, waves, fields, thermodynamics, relativity, quantum physics, and the wider universe.
+- [[physics/Physics|Physics: from first principles]] — motion, forces, energy, waves, fields, thermodynamics, relativity, quantum physics, and the wider universe.
