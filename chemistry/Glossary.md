@@ -13,6 +13,7 @@ Short, plain-language definitions. Each term can grow into its own lesson as we 
 | **Chemical element** | A type of atom defined by its number of protons. |
 | **Electron** | A negatively charged elementary particle found in quantum states around an atomic nucleus. |
 | **Electron cloud** | A picture of where an electron is likely to be detected, not a physical fog. |
+| **Electron density** | A description of how electrons are distributed through space in a quantum system. |
 | **Energy** | A measurable property of a system that helps describe what changes are possible. |
 | **Ground state** | The lowest-energy allowed quantum state of a system. |
 | **Ion** | An atom or group of atoms with a net electric charge because it has unequal numbers of protons and electrons. |
@@ -23,6 +24,8 @@ Short, plain-language definitions. Each term can grow into its own lesson as we 
 | **Neutron** | A particle in most atomic nuclei with no net electric charge. |
 | **Nucleus** | The tiny, dense center of an atom, containing protons and usually neutrons. |
 | **Orbital** | An allowed quantum state for an electron, often pictured using a probability distribution. It is not a planet-like path. |
+| **Probability** | A measure of how likely an outcome is. |
+| **Probability density** | A quantity describing how the probability of detecting something is distributed through space. |
 | **Proton** | A positively charged particle in an atomic nucleus. The number of protons identifies the element. |
 | **Quantum mechanics** | The physical theory used to describe very small systems, including electrons and atoms. |
 | **Repulsion** | An interaction that tends to push objects or particles apart. |
