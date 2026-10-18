@@ -18,6 +18,8 @@ Physics is the study of how the universe behaves: motion, forces, energy, matter
 4. [[Physics/Course/01 - What Physics Is and How Models Work|What physics is and how models work]]
 5. [[Physics/Course/02 - Measurement, Units, and Dimensions|Measurement, units, and dimensions]]
 6. [[Physics/Course/03 - Motion: Position, Velocity, and Acceleration|Motion: position, velocity, acceleration]]
+7. [[Physics/Formula and Concept Reference|Formula and concept reference]]
+8. [[Physics/References and Further Study|References and further study]]
 
 ## The big branches
 
