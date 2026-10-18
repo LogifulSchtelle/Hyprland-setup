@@ -49,3 +49,9 @@ A first-principles route from measurement to the modern universe. The notes are 
 ## Study rule
 
 Do not treat a formula as a button to press. State the physical situation, identify the system, draw a diagram, choose a model, check units, calculate, and ask whether the result makes sense.
+
+
+## Reference notes
+- [[Physics/Formula and Concept Reference|Formula and concept reference]]
+- [[Physics/References and Further Study|References and further study]]
+- [[Physics/Glossary|Plain-language physics glossary]]
