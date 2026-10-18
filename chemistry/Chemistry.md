@@ -28,6 +28,11 @@ Welcome to a **why-first** study of chemistry. The goal is to understand why mat
 - [[Chemistry/Electron|Electrons]]
 - [[Chemistry/Electron Cloud|Electron clouds and probability]]
 
+## The periodic table and real-world elements
+
+- [[Chemistry/Course/07 - The Periodic Table and Valence Electrons|The periodic table and valence electrons]] — why the table has patterns.
+- [[Chemistry/Periodic Table Field Guide|Periodic Table Field Guide: all 118 elements]] — where each element occurs in nature, its natural chemical form, example locations around the world, how it is obtained, and what it is used to make.
+
 ## The big question: why do atoms bond?
 
 - [[Chemistry/Atoms#Why atoms can bond|Why atoms can bond]]
