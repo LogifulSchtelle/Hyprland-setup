@@ -1,0 +1,2 @@
+	The question lies behind how the phyiscal properties make things interact with each other almost like magnets.
+	Particles have their own rules of interaction. Electric charges attract or repel; Quantum Physics determines how electrons behave; and the strong nuclear interaction helps hold automic nuclei together
