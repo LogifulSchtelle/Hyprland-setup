@@ -1,41 +1,44 @@
-The inside of an atom has two main regions:
-- The [[Nucleus]]
-- The [[Electron Cloud]]
+---
+tags: [chemistry, atoms]
+---
 
+# Atoms
 
-A system can exist in different energy states. Under suitable conditions, it can move toward a lower-energy state, releasing energy in the process.
+## What is an atom?
+An **atom** is a small unit of a chemical element. It has two main regions:
+- The [[Nucleus]], a tiny, dense center containing protons and usually neutrons.
+- The [[Electron Cloud]], the surrounding region described by the possible quantum states of electrons.
 
-#### Chemical bonds
-They are connected to this principle. 
-A chemical bond isn't a tiny rope connecting two atoms. It's a stable physical arrangement that emerges from the interactions of their electrons and nuclei.
+Atoms are not miniature solar systems. Electrons do not simply follow fixed planet-like tracks around the nucleus.
 
-When atoms approach one another, several interactions compete:
+## What makes one element different from another?
+The number of [[Proton]]s in the nucleus defines the element. Hydrogen has one proton; carbon has six. Changing the proton count changes the element.
+
+Changing the number of [[Neutron]]s makes a different isotope of the same element. Changing the number of [[Electron]]s gives the atom a net electric charge, making it an ion.
+
+## Why atoms can bond
+A chemical bond is not a tiny rope or glue. It is a stable arrangement that can form when atoms' electrons and nuclei interact.
+
+When two atoms approach:
+- Electrons are attracted to positively charged nuclei.
 - Electrons repel other electrons.
-- Nuclei repel other nuclei because they are positively charged.
-- Electrons are attracted to nuclei.
-- Quantum effects influence the allowed states and how electrons are distributed.
+- Positively charged nuclei repel one another.
+- Quantum mechanics limits which electron arrangements are possible.
 
-Depending on the atoms and their circumstances, the combined system may have a stable arrangement with lower energy than the separated atoms.
+The total energy depends on all these effects together. For some atoms, there is a distance where the combined arrangement has lower energy than the separated atoms. That stable arrangement is the basis of a chemical bond.
 
-That arrangement can form a chemical bond.
+If the atoms are pushed too close, repulsion makes the energy rise sharply. A bond therefore has a preferred separation rather than allowing nuclei to collapse together.
 
-Here's what happens:
+### An important distinction
+Forming a bond can release energy because the combined arrangement has lower energy. Separating bonded atoms requires energy. But for a full reaction, compare **all** starting and ending arrangements, not just one bond.
 
-1. When the atoms are far apart, they barely affect one another.
-2. As they approach, their electrons and nuclei interact.
-3. At a particular distance, the combined system reaches a lower-energy arrangement.
-4. If you push the nuclei too close together, repulsion makes the energy rise sharply.
-The molecule is in a more energetically favorable arrangement than the two separated atoms.
+Even a reaction with a more energetically favorable final state may happen slowly if it must first get past an **activation energy** barrier. See [[../Glossary|Glossary]].
 
-The energy difference doesn't vanish. It must be transferred elsewhere, such as through collisions or radiation.
+## Related ideas
+- [[Matter]] · [[Energy]] · [[Interactions]]
+- [[Electron Cloud]] · [[Chemical Bonds]]
 
-Now suppose we want to separate those atoms again.
-We have to supply energy to break the bond.
-
-Atoms are more complicated. Their behavior depends on their electrons, the nuclei, quantum rules, and the energy of the entire system.
-
-Some arrangements are stable. Others are unstable.
-
-Also, even if a reaction could lead to a more stable final arrangement, it might happen very slowly because the particles must overcome an energy barrier first.
-
-Atoms do not bond merely because they touch. They bond when their interactions and quantum structure allow a stable arrangement to form.
+## Check your understanding
+1. What determines which element an atom is?
+2. Why is a chemical bond not a physical string?
+3. Why must we consider attraction and repulsion together?

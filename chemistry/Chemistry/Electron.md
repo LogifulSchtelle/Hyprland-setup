@@ -1,30 +1,24 @@
-Has a negative electric charge (-ve).
-Has very small mass compared with a [proton]().
+---
+tags: [chemistry, atoms]
+---
 
-They are considered elementary particles in the Standard Model with no known smaller internal components.
+# Electron
 
-- Change the number or arrangement of electrons, and you change the atom's charge or chemical behavior without changing which element it is.
+## What is an electron?
+An **electron** is a particle with a negative electric charge. Its mass is much smaller than a proton's. In the Standard Model, electrons are treated as **elementary particles**, meaning no smaller internal structure has been found.
 
-- a Neutral atom has equal numbers of protons and electrons. If it gains or losses electrons it becomes an ion whether (+ve) when losing an electron or (-ve) when gaingng an electron
+## Why do electrons matter in chemistry?
+Electrons are involved in chemical bonding, electricity, and the way atoms interact with light and other substances. Changing an atom's number or arrangement of electrons can change its charge or chemical behavior without changing which element it is.
 
-- Electrons occupy quantum states that can be described with mathematical wave functions which lets us calculate the probabilities of finding an electron in different regions (they follow quantum mechanics, they don't travel around the nucleus for nothing).
-	The regions where electrons are likely to be found are often illustrated as clouds. These clouds are not physical fog. They're visual representations of probability.
-orbitals
-	The arrangement and energy of electrons influence whether atoms can bond, how strongly they bond, and how they respond to light, electricity, and other substances
+A neutral atom has equal numbers of protons and electrons. If it loses electrons, it becomes positively charged. If it gains electrons, it becomes negatively charged. A charged atom or group of atoms is an [[../Glossary|ion]].
 
+## Do electrons orbit like planets?
+No. Electrons are described by **quantum mechanics**, a theory for very small systems. An electron's allowed state can be used to calculate the probability of detecting it in different regions.
 
-### Electrons have allowed quantum states
+The [[Electron Cloud]] is not physical fog; it represents where an electron is more or less likely to be detected. An **orbital** is an allowed quantum state, not a track the electron follows.
 
-An electron in an atom cannot have just any arbitrary energy. Its possible states are constrained by quantum mechanics.
+## What happens when atoms approach?
+Electron states can change when atoms interact. Electron-nucleus attraction, electron-electron repulsion, nucleus-nucleus repulsion, and quantum rules all contribute to the total energy. Under suitable conditions, the combined arrangement can become more stable than the separated atoms. This is one foundation of [[Chemical Bonds]].
 
-The lowest-energy state of a hydrogen atom is called its ground state. It isn't a little electron sitting motionless at a particular distance from the proton. It is a quantum state spread across a region of space.
-
-When two hydrogen atoms approach, their electrons become part of a combined quantum system. The possible electron states change, and the energies of those states change too.
-
-At the same time, the nuclei repel one another, and the electrons repel one another. The total energy of the system reflects all these contributions.
-
-The result is something extraordinary: there can be a particular separation between the nuclei at which the combined system has lower energy than two isolated hydrogen atoms.
-
-That is the foundation of the hydrogen-hydrogen bond.
-
-We don't need to solve the quantum equations yet. But we do need to understand what the energy difference means.
+## Related ideas
+- [[Electron Cloud]] · [[Nucleus]] · [[Atoms]] · [[Interactions]]
