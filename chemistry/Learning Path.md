@@ -25,9 +25,10 @@ This course starts with basic ideas and builds toward everyday things such as wa
 
 ## Part 3: Why matter holds together
 10. [[Chemistry/Atoms#Why atoms can bond|Why atoms can bond]]
-11. [[Chemistry/Chemical Bonds|Covalent, ionic, and metallic bonding]]
+11. [[Chemistry/Shared Electron Cloud|What it means to share electrons]]
+12. [[Chemistry/Chemical Bonds|Covalent, ionic, and metallic bonding]]
 
-**Checkpoint:** Explain why a chemical bond is not a physical string, and why forming a bond can release energy while breaking it requires energy.
+**Checkpoint:** Explain why a chemical bond is not a physical string, what “shared electron density” means, and why forming a bond can release energy while breaking it requires energy.
 
 ## Part 4: From particles to everyday matter
 Upcoming lessons:
