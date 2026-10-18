@@ -53,6 +53,7 @@ A linked, why-first course from first principles through core general chemistry.
 - [[22 - Nuclear Chemistry and Radioactivity|Nuclear chemistry and radioactivity]]
 - [[23 - Laboratory Thinking, Safety, and Evidence|Laboratory thinking, safety, and evidence]]
 - [[24 - Master Review and Worked Problems|Master review and worked problems]]
+- [[25 - Beyond the Core and Advanced Roadmap|Beyond the core: advanced chemistry roadmap]]
 
 ## Earlier foundational notes
 
