@@ -53,3 +53,8 @@ The numbered notes in [[Chemistry/Course/Course Index|the course folder]] build 
 ## The central idea
 
 The properties of a material depend on **what its particles are, how they are arranged, and how they interact**. Carbon atoms, for example, can form graphite or diamond. The difference is not which element the material contains, but how the atoms are connected and arranged.
+
+
+## Related science course
+
+- [[../physics/Physics|Physics: from first principles]] — motion, forces, energy, waves, fields, thermodynamics, relativity, quantum physics, and the wider universe.
